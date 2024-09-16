@@ -107,4 +107,35 @@ It uses VBScript, a light version of Visual Basic:
 	</html>
 ```
 
-### ASP.NET (.aspx)
+### ASP.NET Core
+
+Merges several models of the ASP framework into one: `ASP.NET MVC`, `ASP.NET Web API`, and `ASP.NET Web Pages`.
+
+The idea behind Core is to have a modular design where apps are built only on components they actually use.
+
+This is achieved in part by managing dependencies by injection.
+
+The result is a smaller footprint, containerizable and cross-platform code that runs faster.
+
+#### Dependency injection (DI)
+
+Imagine a car. It needs an engine to run. Instead of building the car with the engine, as in static dependencies, you "inject" the engine when you need the car to be actually run, rendering it less heavy.
+
+```csharp
+// Interface.
+public interface IEngine
+{
+	void Start();
+}
+
+// Implementation.
+public class GasEngine : IEngine
+{
+	public void Start() => Console.WriteLine("Gas engine started.");
+}
+
+public class ElectricEngine : IEngine
+{
+	public void Start() => Console.WriteLine("Electric engine started.");
+}
+```

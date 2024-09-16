@@ -1,0 +1,15 @@
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\bin\Debug\net8.0\ModernWebArchitecture.exe
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\bin\Debug\net8.0\ModernWebArchitecture.deps.json
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\bin\Debug\net8.0\ModernWebArchitecture.runtimeconfig.json
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\bin\Debug\net8.0\ModernWebArchitecture.dll
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\bin\Debug\net8.0\ModernWebArchitecture.pdb
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\obj\Debug\net8.0\ModernWebArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\obj\Debug\net8.0\ModernWebArchitecture.AssemblyInfoInputs.cache
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\obj\Debug\net8.0\ModernWebArchitecture.AssemblyInfo.cs
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\obj\Debug\net8.0\ModernWebArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\obj\Debug\net8.0\ModernWebArchitecture.sourcelink.json
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\obj\Debug\net8.0\ModernWebArchitecture.dll
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\obj\Debug\net8.0\refint\ModernWebArchitecture.dll
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\obj\Debug\net8.0\ModernWebArchitecture.pdb
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\obj\Debug\net8.0\ModernWebArchitecture.genruntimeconfig.cache
+C:\Users\steven.jimenez\source\repos\2024-09-sep-modern-web-architecture\ModernWebArchitecture\obj\Debug\net8.0\ref\ModernWebArchitecture.dll
